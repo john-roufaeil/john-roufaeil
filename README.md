@@ -2,8 +2,6 @@
 
 I’m a computer engineering bachelor student in my second year.
 
-
-
 You can contact me through email: john.flouis1@gmail.com or through [LinkedIn](https://www.linkedin.com/in/john-f-4519231a1/).
 
 <h3 align="left">Languages and Tools:</h3>
