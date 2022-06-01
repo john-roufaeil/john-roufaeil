@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px"></h1>
 
 ## I like to Learn, Explore, and Create!
 - 👨‍💻 I am a Computer Engineering Student in my second year.
