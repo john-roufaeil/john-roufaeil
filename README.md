@@ -8,8 +8,7 @@
 ## I like to Learn, Explore, and Create!
 - 👨‍💻 I am a sophomore Computer Engineering Student @GUC.
 - 🏅 Interested in Competitive Programming and Problem Solving.
-- 🐍 Currently learning Automation with 
-.
+- 🐍 Currently learning Automation with Python.
 - 📨 Contact me through john.flouis1@gmail.com
 
 
