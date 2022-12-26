@@ -1,9 +1,9 @@
 <p align="center">
-<img alt="ho" src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611e2a7eaabe4f3a4e0dc45e8b4e6f47819b864116b&rid=giphy.gif&ct=s" width="250">
+<img alt="ho" src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611e2a7eaabe4f3a4e0dc45e8b4e6f47819b864116b&rid=giphy.gif&ct=s" width="200">
 </p>
 
 
-<h1 align="center">Hi there, I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px"></h1>
+<h1 align="center">Hi there, I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
 ## I like to Build, Explore, and Challenge!
 - 👨‍💻 I am studying Computer Engineering at the German University in Cairo,
