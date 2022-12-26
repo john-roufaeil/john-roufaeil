@@ -5,18 +5,16 @@
 
 <h1 align="center">Hi there, I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px"></h1>
 
-## I like to Learn, Explore, and Create!
-- 👨‍💻 I am a sophomore Computer Engineering Student @GUC.
-- 🏅 Interested in Competitive Programming and Problem Solving.
-- 🐍 Currently learning Automation with Python.
-- 📨 Contact me through john.flouis1@gmail.com
+## I like to Build, Explore, and Challenge!
+- 👨‍💻 I am studying Computer Engineering at the German University in Cairo,
+- 🏅 Interested in Competitive Programming and Problem Solving,
+- 🌍 Learning Full-Stack Web Development.
 
 
 
 [<img align="left"  width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
   
-  
-[linkedin]: https://www.linkedin.com/in/john-f-4519231a1/
+[linkedin]: https://www.linkedin.com/in/john-r-4519231a1/
 
  <br><br> 
  
