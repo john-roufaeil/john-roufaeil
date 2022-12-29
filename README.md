@@ -8,7 +8,8 @@
 ## I like to Build, Explore, and Challenge!
 - 👨‍💻 I am studying Computer Engineering at the German University in Cairo,
 - 🏅 Interested in Competitive Programming and Problem Solving,
-- 🌍 Learning Full-Stack Web Development.
+- 🌍 Learning Full-Stack Web Development,
+- 🤖 Excited about automating the boring stuff.
 
 
 
