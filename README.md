@@ -7,8 +7,8 @@
 
 ## I like to Build, Explore, and Challenge!
 - 👨‍💻 I am studying Computer Engineering at the German University in Cairo,
-- 🏅 Interested in Competitive Programming and Problem Solving,
-- 🌍 Learning Full-Stack Web Development,
+- 🧠 Interested in Problem Solving,
+- 📱 Currently learning Flutter,
 - 🤖 Excited about automating the boring stuff.
 
 
@@ -33,7 +33,6 @@
 
 <img alt="GitHub" width="40px" src="https://img.icons8.com/fluent/50/000000/github.png" />
 
-<img alt="Bash" width="40px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 
 <img alt="VScode" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 
