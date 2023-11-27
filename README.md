@@ -8,14 +8,13 @@
 ## I like to Build, Explore, and Challenge!
 - 👨‍💻 I am studying Computer Engineering at the German University in Cairo,
 - 🧠 Interested in Problem Solving,
-- 📱 Currently learning Flutter,
-- 🤖 Excited about automating the boring stuff.
+- 📊 Currently learning Data Science.
 
 
 
 [<img align="left"  width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
   
-[linkedin]: https://www.linkedin.com/in/john-r-4519231a1/
+[linkedin]: https://www.linkedin.com/in/john-roufaeil/
 
  <br><br> 
  
@@ -23,7 +22,13 @@
  
 <p align="center">
 
-<img alt="Python3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img alt="Python3" width="40px" src="https://github.com/john-roufaeil/john-roufaeil/assets/97978852/3af21d74-a86b-464b-9734-2dfa629f8fd5" />
+
+<img alt="Numpy" width="40px" src="https://github.com/john-roufaeil/john-roufaeil/assets/97978852/fa11f404-30e1-492f-87f7-91e900db18ce" />
+
+<img alt="Pandas" width="40px" src="https://github.com/john-roufaeil/john-roufaeil/assets/97978852/ecdb2440-c55a-4ca6-ba23-c3021f929282" />
+
+<img alt="SQL" width="40px" src="https://github.com/john-roufaeil/john-roufaeil/assets/97978852/ed2574c4-583a-4a84-9fbe-a7d127f9aa51" />
 
 <img alt="java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
@@ -32,7 +37,6 @@
 <img alt="Cpp" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 
 <img alt="GitHub" width="40px" src="https://img.icons8.com/fluent/50/000000/github.png" />
-
 
 <img alt="VScode" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 
