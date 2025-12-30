@@ -1,29 +1,31 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcxMTIxNzAsIm5iZiI6MTc2NzExMTg3MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMwVDE2MjQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwZGMzYTJkOTFlZDMzOTgwYzhiZWY4NWZhNmRmYTVhZmEyYTQyZjBjOGY5OGQ2YzZkODgyMTI0NWY1N2M1ZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.m-e-g7CCvQITgktWUZMHzqnn-Bapf127TlT0aaT9ME4" alt="coding gif"/>
+  <img src="https://i.postimg.cc/8PsFqT9R/1763540091969.jpg"/>
+
+  
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
   Hi, I'm John <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" alt="waving hand"/>
-</h1>
+</h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <strong>Software Engineer</strong><br/>
   <em>I Code for a Better World</em>
-</p>
+</p> -->
 
-<p align="center">
-  <a href="https://john-roufaeil.me" target="_blank">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/john-roufaeil" target="_blank">LinkedIn</a> •
-  <a href="mailto:john.f.roufaeil@gmail.com">Email</a>
-</p>
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-0082ce?style=for-the-badge&logo=globe&logoColor=white)](https://john-roufaeil.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.f.roufaeil@gmail.com)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ed44a38af240676c?mp_source=share)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-roufaeil)
+</div>
 
 <p align="center">
   <img src="https://user-badge.committers.top/egypt/john-roufaeil.svg" />
 </p>
 
----
-
-## 🚀 About Me
+## About Me
 
 - Software Engineer
 - GUC Computer Engineering Graduate
@@ -33,9 +35,7 @@
 - I care about *why* things work, not just *how*
 - I value real-world impact, I build projects that improve lives
 
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,14 +50,13 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-### Tools & DevOps
+### Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=john-roufaeil&theme=dark&hide_border=true" />
