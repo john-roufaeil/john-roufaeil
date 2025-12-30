@@ -31,6 +31,7 @@
 - Open to **open-source collaboration**
 - Interested about **Data Engineering**
 - I care about *why* things work, not just *how*
+- I value real-world impact, I build projects that improve lives
 
 ---
 
