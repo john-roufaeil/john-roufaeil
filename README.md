@@ -29,9 +29,7 @@
 
 - Software Engineer
 - GUC Computer Engineering Graduate
-- ITI Open Source Applications Development Trainee
-- Open to **open-source collaboration**
-- Interested about **Data Engineering**
+- ITI Open Source Applications Development Graduate
 - I care about *why* things work, not just *how*
 - I value real-world impact, I build projects that improve lives
 
@@ -57,8 +55,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
----
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=john-roufaeil&theme=dark&hide_border=true" />
-</p>
