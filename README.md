@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/8PsFqT9R/1763540091969.jpg"/>
+  <img src="[https://ibb.co/bgSQKtGk](https://postimg.cc/yWVGctbf)"/>
 
   
 </p>
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-0082ce?style=for-the-badge&logo=globe&logoColor=white)](https://john-roufaeil.me)
+[![Website](https://img.shields.io/badge/Website-0082ce?style=for-the-badge&logo=globe&logoColor=white)](https://john-roufaeil.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.f.roufaeil@gmail.com)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ed44a38af240676c?mp_source=share)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-roufaeil)
